@@ -1,1 +1,64 @@
-123123231231
+Request URL:
+https://minio.ntub.edu.tw/api/v1/buckets/api-auth/objects/metadata?prefix=ckeditor%2F2024%2F10%2F17%2F0638372o2wup113(1)%E4%BC%81%E6%A5%AD%E7%AE%A1%E7%90%86%E7%B3%BB%E7%B5%B1(mbs)%E7%A0%94%E7%BF%92%E6%B5%B7%E5%A0%B1-1017_thumb.jpg&versionID=null
+Request Method:
+GET
+Status Code:
+403 Forbidden
+Remote Address:
+140.131.116.109:443
+Referrer Policy:
+no-referrer
+content-length:
+64
+content-security-policy:
+default-src 'self' 'unsafe-eval' 'unsafe-inline'; script-src 'self' https://unpkg.com; connect-src 'self' https://unpkg.com;
+content-type:
+application/json
+date:
+Fri, 18 Oct 2024 10:37:42 GMT
+referrer-policy:
+strict-origin-when-cross-origin
+server:
+openresty
+strict-transport-security:
+max-age=63072000;includeSubDomains; preload
+vary:
+Accept-Encoding
+x-content-type-options:
+nosniff
+x-frame-options:
+DENY
+x-xss-protection:
+1; mode=block
+:authority:
+minio.ntub.edu.tw
+:method:
+GET
+:path:
+/api/v1/buckets/api-auth/objects/metadata?prefix=ckeditor%2F2024%2F10%2F17%2F0638372o2wup113(1)%E4%BC%81%E6%A5%AD%E7%AE%A1%E7%90%86%E7%B3%BB%E7%B5%B1(mbs)%E7%A0%94%E7%BF%92%E6%B5%B7%E5%A0%B1-1017_thumb.jpg&versionID=null
+:scheme:
+https
+accept:
+*/*
+accept-encoding:
+gzip, deflate, br, zstd
+accept-language:
+zh-TW,zh;q=0.9,en-US;q=0.8,en;q=0.7
+cookie:
+_ga_ZJKPYNGHGM=GS1.1.1726122971.1.0.1726122978.0.0.0; _ga_K25LL1KJN6=GS1.1.1728987792.6.1.1728987830.0.0.0; token=ALg/4z3s3gFZDVYrfXKAzNeeohXVgsfDg+/hH25nJbmZ8m0IDx7BYtYbH8tO0hteeDT9ScE8ZZiZnfRz+nCRCMcQkmTaYD8nRCS2KowdOYVOKz2Dmo9FsBKPCU+6HdpAaKLEgFZqlLp8WTCqi8yFjSoewTZYJljuNEkMZ+6VVl+CVS56+l/3upqJixFuFlqbAAynQL+1Rdm1QH1UDPKXCVXst4OT//35RAzMf2AuUSZjxbBFcHhEY3xHSuwj8fSnPmuTB0533T0DKqLWilTjJT3tq9BT7oNn76FDuF51ePChBZjl7ZXceHN1+8gs29cbm1008L1ayGi49z81tL76t2j3B25UFOo458VP4tuMg7IZ4dJKDKAdlJYUGNHoNp9Rl47Pa1aC91HXcqJ3VcLubroSqqZgLgbDCZhuQ1y3ODYxc/VA0sMPjnIkb7s7pv+mzdyN+QyUGKbi+ObLoToiiAJVUGGBLza3wezz1OmCq9I/VZ3RWSNaKezbjrXMJTXDW7fujMhYjIjhDkMTvN9sSQ4DensLmTFziMbYKDREv3lpd8/eXW9WzsSVXIuv3n1u; _gid=GA1.3.2079649394.1729238845; _ga_C7Y29ZZQVM=GS1.1.1729238844.5.0.1729238844.0.0.0; _ga=GA1.1.1300303945.1720684269; _ga_DW4P977L7T=GS1.1.1729246762.17.0.1729246762.0.0.0
+priority:
+u=1, i
+sec-ch-ua:
+"Google Chrome";v="129", "Not=A?Brand";v="8", "Chromium";v="129"
+sec-ch-ua-mobile:
+?0
+sec-ch-ua-platform:
+"Windows"
+sec-fetch-dest:
+empty
+sec-fetch-mode:
+cors
+sec-fetch-site:
+same-origin
+user-agent:
+Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/129.0.0.0 Safari/537.36
